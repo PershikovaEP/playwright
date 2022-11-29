@@ -1,0 +1,8 @@
+node_modules
+.vscode
+user.js
+/test-results/
+/playwright-report/
+/playwright/.cache/
+tests-examples
+e2e

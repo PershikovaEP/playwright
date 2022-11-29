@@ -1,0 +1,16 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "UI-test playwright",
+  "main": "./test.js",
+  "scripts": {
+    "test": "playwright test",
+    "eslint": "eslint"
+  },
+  "author": "PershikovaEP",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1",
+    "playwright": "^1.28.1"
+  }
+}
