@@ -44,6 +44,8 @@ const config = {
     launchOptions: {
       slowMo: 200,
     },
+
+    screenshot: "only-on-failure", //скриншот на каждую ошибку
   },
 
   /* Configure projects for major browsers */

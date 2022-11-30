@@ -6,3 +6,5 @@ user.js
 /playwright/.cache/
 tests-examples
 e2e
+screenshot
+test-results
